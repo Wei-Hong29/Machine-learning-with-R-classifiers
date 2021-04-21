@@ -8,9 +8,9 @@
 
 ### The project is done in the following steps:
 - **Step 1 and 2: Data exploration and pre-processing**
-- 
+ 
 - **Step 3: Separating dataset into training and testing data**
-- 
+
 - **Step 4 and 5: Making and training classifiers, followed by testing**
   - created and tested classifiers are as follows:
     -  Decision Tree

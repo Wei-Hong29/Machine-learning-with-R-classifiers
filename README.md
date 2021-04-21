@@ -2,12 +2,19 @@
 - Done as an assignment in one of my degree's data science units
 - "Defects.csv" is the dataset used in this project. It is the NASA Defects dataset, containing defects data from the NASA Metrics Data Program, see: http://mdp.ivv.nasa.gov.
 
-### The data analysis is done in the following steps:
-- **Step 0: Draw 40,000 samples from our data file(bankcomplaints.csv, which is from our google drive link above)**
-
-- **Step a: Pre-processing**
-  - Data Quality Check
-  - Data Transformation and Extraction
+### The project is done in the following steps:
+- **Step 1 and 2: Data exploration and pre-processing**
+- 
+- **Step 3: Separating dataset into training and testing data**
+- 
+- **Step 4 and 5: Making and training classifiers, followed by testing**
+  - created and tested classifiers are as follows:
+  - 
+• Decision Tree
+• Naïve Bayes
+• Bagging
+• Boosting
+• Random Forest
   
 - **Step b - Complaint Parameter Analysis**
   - Extract unique issues

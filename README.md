@@ -9,24 +9,22 @@
 - 
 - **Step 4 and 5: Making and training classifiers, followed by testing**
   - created and tested classifiers are as follows:
-  - 
-• Decision Tree
-• Naïve Bayes
-• Bagging
-• Boosting
-• Random Forest
+    -  Decision Tree
+    -  Naïve Bayes
+    -  Bagging
+    -  Boosting
+    -  Random Forest
   
-- **Step b - Complaint Parameter Analysis**
-  - Extract unique issues
-  - Plot histogram for:
-    -  most common issues with all companies
-    -  issues separated by sub-products
-  - Findings are noted in report, backed by statistical tests done in R code
+- **Step 6 and 7: Assessing classifier performance**
+  - Classifiers are assesed based on their accuracy and their AUC score.
+  - Best performing classifier is documented.
 
-- **Part c - Activity and Complaint Over Time Analysis**
-  - Plot time series graph for all issues, 
-  - Plot time series graph for each issue separatedly
-  - Find top 5 companies with most complaints, and plot them using heat map
+- **Step 8 and 9: Finding the most important variables in our classifiers, and create a NeuralNet classifier using those**
+
+- **Step 10: Test the NeuralNet classifier created in previous step for its performance.
+
+- **Final step: document all findings in the report.
+
 
 
 

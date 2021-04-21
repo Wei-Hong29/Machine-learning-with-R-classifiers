@@ -242,7 +242,7 @@ print(as.numeric(aucforest@y.values))
 
 
 
-################       Determining most important variables      ######################
+################       8.Determining most important variables      ######################
 
 #get root node, which gives the most imformation gain, which is the most important for a tree classifier
 dtreefit

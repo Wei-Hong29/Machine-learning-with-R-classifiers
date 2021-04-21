@@ -45,25 +45,25 @@ NASA, then the NASA Metrics Data Program, http://mdp.ivv.nasa.gov.
 3. Number of Instances: 1108
 4. Number of Attributes: 21 + output attribute.
 5. Attribute information:
-Attribute1. loc : numeric % McCabe's line count of code
-Attribute2. v(g) : numeric % McCabe "cyclomatic complexity"
-Attribute3. ev(g) : numeric % McCabe "essential complexity"
-Attribute4. iv(g) : numeric % McCabe "design complexity"
-Attribute5. n : numeric % Halstead total operators + operands
-Attribute6. v : numeric % Halstead "volume"
-Attribute7. l : numeric % Halstead "program length"
-Attribute8. d : numeric % Halstead "difficulty"
-Attribute9. i : numeric % Halstead "intelligence"
-Attribute10. e : numeric % Halstead "effort"
-Attribute11. b : numeric % Halstead 
-Attribute12. t : numeric % Halstead's time estimator
-Attribute13. lOCode : numeric % Halstead's line count
-Attribute14. lOComment : numeric % Halstead's count of lines of comments
-Attribute15. lOBlank : numeric % Halstead's count of blank lines
-Attribute16. lOCodeAndComment: numeric
-Attribute17. uniq_Op : numeric % unique operators
-Attribute18. uniq_Opnd : numeric % unique operands
-Attribute19. total_Op : numeric % total operators
-Attribute20. total_Opnd : numeric % total operands
-Attribute21: branchCount : numeric % of the flow graph
-Attribute22. defects : {FALSE,TRUE}% module has/has not one or more reported defect
+- Attribute1. loc : numeric % McCabe's line count of code
+- Attribute2. v(g) : numeric % McCabe "cyclomatic complexity"
+- Attribute3. ev(g) : numeric % McCabe "essential complexity"
+- Attribute4. iv(g) : numeric % McCabe "design complexity"
+- Attribute5. n : numeric % Halstead total operators + operands
+- Attribute6. v : numeric % Halstead "volume"
+- Attribute7. l : numeric % Halstead "program length"
+- Attribute8. d : numeric % Halstead "difficulty"
+- Attribute9. i : numeric % Halstead "intelligence"
+- Attribute10. e : numeric % Halstead "effort"
+- Attribute11. b : numeric % Halstead 
+- Attribute12. t : numeric % Halstead's time estimator
+- Attribute13. lOCode : numeric % Halstead's line count
+- Attribute14. lOComment : numeric % Halstead's count of lines of comments
+- Attribute15. lOBlank : numeric % Halstead's count of blank lines
+- Attribute16. lOCodeAndComment: numeric
+- Attribute17. uniq_Op : numeric % unique operators
+- Attribute18. uniq_Opnd : numeric % unique operands
+- Attribute19. total_Op : numeric % total operators
+- Attribute20. total_Opnd : numeric % total operands
+- Attribute21: branchCount : numeric % of the flow graph
+- Attribute22. defects : {FALSE,TRUE}% module has/has not one or more reported defect

@@ -2,7 +2,7 @@
 rm(list = ls())
 
 
-#setwd('C:/Users/User/Downloads/FIT3152/Assignment 2')
+#setwd('C:/Users/User/Downloads/proj1')
 
 library(tree)
 library(e1071)

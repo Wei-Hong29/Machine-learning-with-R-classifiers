@@ -70,3 +70,5 @@ NASA, then the NASA Metrics Data Program, http://mdp.ivv.nasa.gov.
 - Attribute20. total_Opnd : numeric % total operands
 - Attribute21: branchCount : numeric % of the flow graph
 - Attribute22. defects : {FALSE,TRUE}% module has/has not one or more reported defect
+
+Note about the dataset used in this project - Defects.csv: I do not own this dataset. All credits go to its rightful owner.

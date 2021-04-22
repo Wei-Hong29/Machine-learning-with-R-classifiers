@@ -1,5 +1,4 @@
 # Machine-learning-with-R-classifiers
-- Done as an assignment in one of my degree's data science units
 - "Defects.csv" is the dataset used in this project. It is the NASA Defects dataset, containing defects data from the NASA Metrics Data Program, see for more info: http://mdp.ivv.nasa.gov.
 - This **project aims** to use machine learning to predicts whether a NASA program is "defect prone" or "not defect prone" based on collected data, best forming classifiers found are:
   - Random forest classifier: 0.958 **accuracy**
